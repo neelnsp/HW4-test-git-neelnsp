@@ -5,7 +5,10 @@ import hw4_cards as stuff
 ##### Name: Neel Shashikant Patel #####
 ##### Unique: neelsnp             #####
 #######################################
-
+""" 
+Create test as per instructions. Pretty much just test the cases they give and go from there.
+Remember "test" before functions and try to switch up variables as to not get confused if similar names. 
+"""
 class TestCard(unittest.TestCase):
     def test_0_create(self):
         card = stuff.Card()
