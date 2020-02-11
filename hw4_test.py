@@ -7,7 +7,7 @@ import hw4_cards as stuff
 #######################################
 """ 
 Create test as per instructions. Pretty much just test the cases they give and go from there.
-Remember "test" before functions and try to switch up variables as to not get confused if similar names. 
+Remember "test" before functions and try to keep different variable names as to not get confused. 
 """
 class TestCard(unittest.TestCase):
     def test_0_create(self):
